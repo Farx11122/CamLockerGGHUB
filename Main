@@ -1,0 +1,7 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/CamLockerGGHUB/main/Gui", true))()
+wait(1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/CamLockerGGHUB/main/QToolGet", true))()
+wait(1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/CamLockerGGHUB/main/Lock", true))()
+wait(1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/CamLockerGGHUB/main/Speed", true))()
